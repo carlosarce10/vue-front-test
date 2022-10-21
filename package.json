@@ -7,8 +7,12 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "bootstrap": "4.6.x",
+    "bootstrap-vue": "^2.22.0",
+    "vue": "^2.7.13",
+    "vue-router": "^3.2.0",
+    "vue-sweetalert2": "^5.0.5",
+    "vuelidate": "^0.7.7"
   },
   "devDependencies": {
     "@vue/cli-plugin-router": "~4.5.13",
